@@ -1,5 +1,6 @@
 <div align='center'>
     <h1>Projeto de Estudo - Sorteio de Filmes.</h1>
+    <h2>Aqui fortaleci meu estudo relacionado a API, assim não precisarei mais passar muito tempo scrollando filmes em streamings, agora basta buscar por gênero e acho meu filme que irei assistir.
 
 
   ### Ferramentas utilizadas nesse projeto:
